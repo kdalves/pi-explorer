@@ -1,10 +1,10 @@
 # PI-Explorer
 
-Neste repositório, tem algumas atividades práticas que foram realizadas na faculdade relativas a Processamento de Imagem e desenvolvida ao longo do semestre. Para isto, seguiremos as instruções [deste tutorial](https://agostinhobritojr.github.io/tutorial/pdi/), disponibilizado em livre acesso pelo professor Agostinho Brito.
+Neste repositório, tem algumas atividades práticas que foram realizadas na faculdade relativas a Processamento de Imagem e desenvolvidas ao longo do semestre. Para isto, seguimos as instruções [deste tutorial](https://agostinhobritojr.github.io/tutorial/pdi/), disponibilizado em livre acesso pelo professor Agostinho Brito.
 
-A cada semana, abordamos um dos conceitos do material, durante o período da aula, e em seguida você deve realizar a respectiva tarefa. O prazo de entrega da tarefa era de cerca de 10 dias após a discussão em aula sobre o conteúdo. Isso permitiu que eu pudese alinhar eventuais duvidas com o professor na aula seguinte e conseguir finalizar dentro do prazo de entrega.
+A cada semana, abordamos um dos conceitos do material, durante o período da aula, e posteriormente realizada a respectiva tarefa. O prazo de entrega da tarefa era de cerca de 10 dias após a discussão em aula sobre o conteúdo. Isso permitiu que eu pudesse alinhar eventuais duvidas com o professor na aula seguinte e conseguir finalizar dentro do prazo de entrega.
 
-Cada entrega realizada foi entregue em uma pasta específica para o mesmo e além do código, desenvolvi um report (read.me). Este report apresenta exemplos de entrada e saída (resultados) do algoritmo. Além disso, todas as atividades podem ser iniciadas a partir de códigos de exemplo disponibilizados com a respectiva lição. Dessa forma, o relatório também deve destacou as partes do código que desenvolvi, explicando em detalhes o funcionamento e a lógica que utilizei.
+Cada entrega realizada foi entregue em uma pasta específica para o mesmo e além do código, desenvolvi um report (read.me). Este report apresenta exemplos de entrada e saída (resultados) do algoritmo. Além disso, todas as atividades usei de base para iniciar a partir de códigos de exemplo disponibilizados com a respectiva lição. Dessa forma, o relatório também destaquei as partes do código que desenvolvi, explicando em detalhes o funcionamento e a lógica que utilizei.
 
 Ao todo foram 8 entregas, organizadas da seguinte maneira:
 
@@ -17,7 +17,10 @@ Ao todo foram 8 entregas, organizadas da seguinte maneira:
 - [x] 7. [Detecção de Bordas](#detecção-de-bordas)
 - [x] 8. [K-means](#kmeans)
 
-Os exemplos disponíveis encontram-se em C++, mas você pode desenvolver as atividades em outra linguagem de sua preferência, desde que utilize o OpenCV. 
+Os exemplos disponíveis encontram-se em C++, mas podia desenvolver as atividades em outra linguagem de nossa preferência, desde que utilize o OpenCV. 
+
+# Sobre esse repositório
+Esse repositório é uma cópia de outro que ficou bloqueado no GitHub Education que eu trouxe para esse repositório público. 
 
 # Sobre as atividades
 Para a realização dessa atividade optei por fazer na linguagem Python, pois pensei que a curva de aprendizagem era menor em relação ao C++. Sendo assim, todas as as resoluções foram adapatadas de acordo com linguagem escolhida podendo ter algumas diferenças do que foi apresentado no exemplo da explicação.
